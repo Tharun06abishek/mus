@@ -1,0 +1,7 @@
+streamlit
+tidalapi
+requests
+poetry
+pytest
+sphinx
+tox
